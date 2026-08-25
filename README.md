@@ -72,8 +72,6 @@ The repository also contains **VMatic Test App**, which is a separate testing bu
 4. Tap **Install**.
 5. Open **VMatic Shield** and complete the setup.
 
-> **Security note:** Only install APKs obtained from sources you trust. Verify the file and publisher before installation.
-
 ---
 
 ## 🏢 About VMatic Global Technologies
