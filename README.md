@@ -1,72 +1,95 @@
 <div align="center">
 
-# ⚡ VMatic Global Technologies
+# 🛡️ VMatic Shield
 
-### VMatic Test App — Official Android APK
+### VMatic Global Technologies
 
-<p>
-  <strong>Secure • Simple • Direct</strong><br>
-  Download the VMatic Test App directly from the official repository.
-</p>
+**Your Android Security & Protection Solution**
 
-<a href="https://github.com/Aman-bot-coder/VMaticTestApk/raw/refs/heads/main/VMatic-Test-App.apk">
-  <img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20APK-VMatic%20Test%20App-2563EB?style=for-the-badge&logo=android&logoColor=white" alt="Download VMatic Test App APK">
+Protect. Detect. Stay Secure.
+
+<br>
+
+<a href="https://github.com/Aman-bot-coder/VMaticTestApk/raw/refs/heads/main/Vmatic-Shield-V1.apk">
+  <img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20VMATIC%20SHIELD-7C3AED?style=for-the-badge&logo=android&logoColor=white" alt="Download VMatic Shield">
 </a>
 
 <br><br>
 
+<img src="https://img.shields.io/badge/MAIN%20PRODUCT-VMatic%20Shield-111827?style=flat-square" alt="Main Product">
 <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
-<img src="https://img.shields.io/badge/Publisher-VMatic%20Global%20Technologies-111827?style=flat-square" alt="VMatic Global Technologies">
-<img src="https://img.shields.io/badge/Package-APK-7C3AED?style=flat-square" alt="APK">
+<img src="https://img.shields.io/badge/Version-V1-2563EB?style=flat-square" alt="Version V1">
 
 </div>
 
 ---
 
-## 📲 Download
+## 🛡️ VMatic Shield — Main Product
 
-<div align="center">
+**VMatic Shield** is the main Android security product from **VMatic Global Technologies**, built to provide users with an additional layer of protection and security awareness on their Android devices.
 
-### VMatic Test App
-
-**Latest Android test build**
+### 📲 Latest Release
 
 | Detail | Information |
 |---|---|
-| 📦 File | `VMatic-Test-App.apk` |
-| 📏 Size | ~10 MB |
+| 📦 Application | **VMatic Shield** |
+| 🔖 Version | **V1** |
 | 📱 Platform | Android |
-| 🏢 Publisher | VMatic Global Technologies |
-| 🔗 Distribution | Official GitHub Repository |
+| 📏 APK Size | **~6.9 MB** |
+| 🏢 Publisher | **VMatic Global Technologies** |
+| ⭐ Status | **Main Product** |
 
-### 👇 Ready to install?
+### 🚀 Download VMatic Shield
 
-**[🚀 DOWNLOAD VMATIC TEST APP](https://github.com/Aman-bot-coder/VMaticTestApk/raw/refs/heads/main/VMatic-Test-App.apk)**
+<div align="center">
+
+**[🛡️ DOWNLOAD VMATIC SHIELD V1](https://github.com/Aman-bot-coder/VMaticTestApk/raw/refs/heads/main/Vmatic-Shield-V1.apk)**
 
 </div>
 
 ---
 
-## 🛠️ Installation
+## 🧪 VMatic Test App
 
-1. Tap **Download APK** above.
-2. Open the downloaded `VMatic-Test-App.apk` file.
-3. If Android asks, allow your browser/file manager to **install unknown apps**.
-4. Tap **Install**.
-5. Launch the VMatic Test App.
+The repository also contains **VMatic Test App**, which is a separate testing build used for testing Android permissions and related functionality.
 
-> **Note:** This APK is intended for testing and distribution by VMatic Global Technologies. Only install APK files you trust.
+| App | Purpose |
+|---|---|
+| 🛡️ **VMatic Shield V1** | **Main customer product** |
+| 🧪 **VMatic Test App** | Permission / functionality testing build |
+
+**Test APK:** [`VMatic-Test-App.apk`](https://github.com/Aman-bot-coder/VMaticTestApk/raw/refs/heads/main/VMatic-Test-App.apk)
+
+> The Test App is **not** the main VMatic product. It exists separately for development and permission testing.
 
 ---
 
-## 🏢 About VMatic
+## 📥 Installation
 
-**VMatic Global Technologies** — Technology • Security • Innovation
+1. Download **VMatic Shield V1** using the button above.
+2. Open the downloaded APK on your Android device.
+3. If Android asks, allow your browser/file manager to install apps from this source.
+4. Tap **Install**.
+5. Open **VMatic Shield** and complete the setup.
 
-This repository is used for distributing the VMatic Android test application.
+> **Security note:** Only install APKs obtained from sources you trust. Verify the file and publisher before installation.
+
+---
+
+## 🏢 About VMatic Global Technologies
+
+**VMatic Global Technologies** develops technology products focused on security, protection and innovation.
+
+### VMatic Shield
+
+**Protect • Detect • Stay Secure**
+
+---
 
 <div align="center">
 
 **© VMatic Global Technologies**
+
+**VMatic Shield — Main Product • V1**
 
 </div>
